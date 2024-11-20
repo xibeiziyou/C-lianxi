@@ -1,0 +1,14 @@
+D:\项目工程\控制台项目\C#练习\C#练习\bin\Debug\net8.0\C#练习.exe
+D:\项目工程\控制台项目\C#练习\C#练习\bin\Debug\net8.0\C#练习.deps.json
+D:\项目工程\控制台项目\C#练习\C#练习\bin\Debug\net8.0\C#练习.runtimeconfig.json
+D:\项目工程\控制台项目\C#练习\C#练习\bin\Debug\net8.0\C#练习.dll
+D:\项目工程\控制台项目\C#练习\C#练习\bin\Debug\net8.0\C#练习.pdb
+D:\项目工程\控制台项目\C#练习\C#练习\obj\Debug\net8.0\C#练习.GeneratedMSBuildEditorConfig.editorconfig
+D:\项目工程\控制台项目\C#练习\C#练习\obj\Debug\net8.0\C#练习.AssemblyInfoInputs.cache
+D:\项目工程\控制台项目\C#练习\C#练习\obj\Debug\net8.0\C#练习.AssemblyInfo.cs
+D:\项目工程\控制台项目\C#练习\C#练习\obj\Debug\net8.0\C#练习.csproj.CoreCompileInputs.cache
+D:\项目工程\控制台项目\C#练习\C#练习\obj\Debug\net8.0\C#练习.dll
+D:\项目工程\控制台项目\C#练习\C#练习\obj\Debug\net8.0\refint\C#练习.dll
+D:\项目工程\控制台项目\C#练习\C#练习\obj\Debug\net8.0\C#练习.pdb
+D:\项目工程\控制台项目\C#练习\C#练习\obj\Debug\net8.0\C#练习.genruntimeconfig.cache
+D:\项目工程\控制台项目\C#练习\C#练习\obj\Debug\net8.0\ref\C#练习.dll
