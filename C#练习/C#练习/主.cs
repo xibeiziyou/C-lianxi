@@ -10,9 +10,12 @@ namespace C_练习
     {
         static void Main(string[] args)
         {
-            string str = "A wise old owl lived in an oak";
-            Console.WriteLine(str);
-            Console.WriteLine(字符加密.EncryptThis(str));
+            int[] ints = { 35, 22345,452, 32344,5633,346,234,252 };
+            int[] its = 零件之和.PartsSums优化(ints);
+            foreach (var item in its)
+            {
+                Console.WriteLine(item);
+            }
         }
     }
 }
