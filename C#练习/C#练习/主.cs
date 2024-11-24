@@ -10,7 +10,8 @@ namespace C_练习
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(弹跳球.bouncingBall优化(30.0, 0.66, 1.5));
+            int[,] board = new int[,] { { 1, 2, 1 }, { 1, 2, 2 }, { 2, 1, 2 } };
+            Console.WriteLine(井字棋状况判定.IsSolved再优化(board));
         }
     }
 }
