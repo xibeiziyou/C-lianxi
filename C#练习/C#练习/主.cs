@@ -10,7 +10,13 @@ namespace C_练习
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(返回ip4之间的地址数.IpsBetween优化("20.0.0.10", "20.0.1.0"));
+            string a = "......\n" +
+                       "......\n" +
+                       "......\n" +
+                       "......\n" +
+                       ".....W\n" +
+                       "....W.";
+            Console.WriteLine(探路者系列_1_找到出口.PathFinder优化(a));
         }
     }
 }
