@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C#练习")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4e06393ee0ed801d163b63adf6eaaedcc17e5db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f537c3d3c2c9908aa8d00fec5a6c6c141da2b8d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("C#练习")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C#练习")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
