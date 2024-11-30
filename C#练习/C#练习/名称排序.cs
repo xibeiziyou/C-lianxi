@@ -44,14 +44,14 @@ namespace C_练习
 
             return result;
         }
-        public static string Meeting简(string s) => (
-        string.Join("", s                    // 1. 用 Join 将数组拼接成一个字符串
-                    .ToUpper()              // 2. 将整个字符串转为大写
-                    .Split(';')             // 3. 按分号分割字符串，得到每个 "名字:姓氏" 的片段
-                    .Select(uu => uu.Split(':'))   // 4. 将每个片段按冒号分割成 "名字" 和 "姓氏"
-                    .OrderBy(f => f[1])     // 5. 按姓氏（第二部分）进行排序
-                    .ThenBy(g => g[0])      // 6. 如果姓氏相同，再按名字（第一部分）排序
-                    .Select(a => "(" + a[1] + ", " + a[0] + ")") // 7. 格式化为 "(姓氏, 名字)" 的形式
-    );
+    //    public static string Meeting简(string s) => (
+    //    string.Join("", s                    // 1. 用 Join 将数组拼接成一个字符串
+    //                .ToUpper()              // 2. 将整个字符串转为大写
+    //                .Split(';')             // 3. 按分号分割字符串，得到每个 "名字:姓氏" 的片段
+    //                .Select(uu => uu.Split(':'))   // 4. 将每个片段按冒号分割成 "名字" 和 "姓氏"
+    //                .OrderBy(f => f[1])     // 5. 按姓氏（第二部分）进行排序
+    //                .ThenBy(g => g[0])      // 6. 如果姓氏相同，再按名字（第一部分）排序
+    //                .Select(a => "(" + a[1] + ", " + a[0] + ")") // 7. 格式化为 "(姓氏, 名字)" 的形式
+    //);
     }
 }
